@@ -14,8 +14,6 @@ Astra is an OLED-first Omarchy theme built around true black, silver-gray neutra
 
 ## Installation
 
-Place the theme in `~/.config/omarchy/themes/astra/`, then activate it with:
-
 ```bash
-omarchy theme set astra
+omarchy theme install https://github.com/berrimi/omarchy-astra-theme
 ```
