@@ -17,3 +17,7 @@ Astra is an OLED-first Omarchy theme built around true black, silver-gray neutra
 ```bash
 omarchy theme install https://github.com/berrimi/omarchy-astra-theme
 ```
+
+## Credits
+
+- **Wallpapers upscaled by:** [@OldJobobo](https://github.com/OldJobobo)
